@@ -1,0 +1,16 @@
+asgiref==3.7.2
+certifi==2023.7.22
+distlib==0.3.7
+Django==4.2.6
+filelock==3.12.4
+pipenv==2023.10.3
+platformdirs==3.11.0
+PyMonCtl==0.7
+pywin32==306
+PyWinBox==0.6
+PyWinCtl==0.3
+setuptools==68.2.2
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2023.3
+virtualenv==20.24.5
